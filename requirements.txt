@@ -1,0 +1,4 @@
+Django>=4.2
+PyYAML>=6.0
+jsonschema>=4.0
+git-filter-repo>=2.38
