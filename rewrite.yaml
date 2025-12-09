@@ -1,0 +1,37 @@
+timestamp:
+  # mode: synthetic
+  mode: author 
+  # mode: commit
+
+scope:
+  fraction: 1.0
+
+# calendar:
+#   start: "2015-06-01"
+#   end: "2015-11-30"
+#   timezone: UTC
+
+# work_patterns:
+#   weekdays:
+#     enabled: true
+#     hours:
+#       start: "20:00"
+#       end: "23:30"
+
+#   saturday:
+#     enabled: true
+#     hours:
+#       start: "09:00"
+#       end: "12:00"
+
+#   sunday:
+#     enabled: false
+
+# randomness:
+#   seed: 20150601
+#   gap_minutes:
+#     min: 25
+#     max: 90
+#   seconds:
+#     min: 5
+#     max: 55
